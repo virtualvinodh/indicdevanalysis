@@ -1,0 +1,1 @@
+for /r %%i in (*.hws) do ..\ss\Extracteur\extracteurExe.exe %%i

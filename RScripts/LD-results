@@ -1,0 +1,113 @@
+Grantha::
+
+Coefficients of linear discriminants:
+                              LD1           LD2           LD3           LD4           LD5
+GAll$length         -4.288591e-04  7.619557e-03 -4.630755e-03 -2.253725e-03 -7.171164e-04
+GAll$LBIndex        -1.505026e+00  4.123374e-01  9.426632e-02  3.833492e-01 -1.566833e+00
+GAll$circularity     9.353638e-01 -1.779802e+00 -6.272909e+00 -7.033157e+00 -1.985897e+01
+GAll$rectangularity -3.800065e+00 -7.431702e+00  6.650365e+00  1.310899e+01  2.779472e+01
+GAll$divergence     -1.030832e-03  1.473285e-03  2.503521e-04  9.543470e-03 -3.931037e-03
+GAll$openness        2.458175e-01  1.370828e+00  1.002128e-02 -4.384483e-01  6.724054e-01
+GAll$size           -6.515214e-05 -9.797260e-05  7.608831e-05 -1.615914e-05  6.517345e-05
+GAll$compactness    -3.132282e+01 -2.529042e+01  2.783559e+01 -2.413941e+00  3.875065e+01
+GAll$avgCurv        -2.994371e+00  1.208533e+01  8.847875e+01 -1.207709e+00 -2.799779e+01
+
+Proportion of trace:
+   LD1    LD2    LD3    LD4    LD5 
+0.8905 0.0737 0.0157 0.0142 0.0059 
+
+<<Grantha:: compactness>>
+
+---------------
+
+Kannada::
+
+Coefficients of linear discriminants:
+                              LD1           LD2           LD3           LD4           LD5
+KAll$length         -1.063217e-03  5.177154e-03  2.489009e-03 -1.456106e-03  2.517176e-04
+KAll$LBIndex        -1.111411e+00 -4.895763e-01 -2.354858e+00 -3.806999e-01 -1.474856e+00
+KAll$circularity     8.877637e-01  3.449971e-02  5.179210e+00 -1.624370e+01 -7.271462e+00
+KAll$rectangularity -5.743525e+00 -9.513629e+00 -4.675376e+00  1.812688e+01  1.328894e+01
+KAll$divergence      1.756182e-03  1.032284e-03  6.613687e-03 -2.646737e-03 -3.600189e-03
+KAll$openness       -8.757779e-02  1.137379e+00  2.016997e-01 -1.877648e-01  1.083222e+00
+KAll$size           -7.854463e-05 -4.382874e-05  1.435496e-06  7.154104e-05 -2.410829e-06
+KAll$compactness    -4.478992e+01 -1.725327e+01 -1.481733e+01 -1.206191e+01 -4.335422e+00
+KAll$avgCurv        -5.145633e+01  1.360088e+02 -5.934606e+01 -7.418858e+01  1.301611e+02
+
+Proportion of trace:
+   LD1    LD2    LD3    LD4    LD5 
+0.8696 0.0977 0.0181 0.0114 0.0033 
+
+<<Kannada LD: compactness/average>>
+
+-------------------
+
+Devanagari::
+
+Coefficients of linear discriminants:
+                              LD1           LD2           LD3           LD4           LD5
+DAll$length          6.460634e-03 -1.487076e-03 -2.035966e-03 -2.768448e-03  5.574260e-03
+DAll$LBIndex         7.001926e-01  2.135567e+00 -5.149428e-01  4.836578e-01 -4.742108e-01
+DAll$circularity     9.306021e+00 -8.679433e+00  1.738663e+01 -6.833181e+00  1.558342e+00
+DAll$rectangularity -1.115669e+01  1.456733e+01 -2.249960e+01  9.180172e+00 -5.856439e+00
+DAll$divergence      5.197000e-03  8.128028e-04  1.334825e-02 -2.139132e-03  4.612845e-03
+DAll$openness        1.409529e-01 -1.286505e+00 -1.385982e+00 -1.696811e+00 -1.482734e+00
+DAll$size           -3.572457e-05 -2.305096e-05 -5.679680e-05  6.493033e-05 -1.841761e-04
+DAll$compactness    -8.932283e+00 -1.275428e+01 -6.947249e+01 -3.607627e+01 -5.567827e+01
+DAll$avgCurv         4.083536e+01 -1.564710e+02 -4.736580e+01  1.294653e+02  5.874049e+01
+
+Proportion of trace:
+   LD1    LD2    LD3    LD4    LD5 
+0.8189 0.1262 0.0454 0.0084 0.0011 
+
+<< Devanagari LD: Average Curvature+rectangularity + <Compact + Rect + circ> (minor)
+
+--------------------
+
+Tamil ::
+
+Coefficients of linear discriminants:
+                              LD1           LD2           LD3           LD4           LD5
+TAll$length         -5.794876e-05  1.870859e-04 -2.284284e-03 -1.704754e-03  1.445613e-03
+TAll$LBIndex         1.606873e+00 -1.810540e-01 -8.649202e-01 -1.551321e+00 -1.027447e-01
+TAll$circularity     3.472378e+00  5.101232e+00  1.274715e+01 -1.465088e+01 -1.512015e+01
+TAll$rectangularity -2.361892e-01 -5.848232e+00 -1.419148e+01  1.773272e+01  1.876248e+01
+TAll$divergence     -8.161801e-05  1.648426e-03 -4.631673e-04  4.072073e-03 -2.895561e-03
+TAll$openness       -1.247222e-01 -1.706717e+00  6.883620e-01 -6.051272e-01  1.116698e+00
+TAll$size            6.279551e-05 -4.976026e-05  4.814460e-05  8.042209e-05 -4.779524e-06
+TAll$compactness     2.311929e+01 -3.296323e+01  2.847853e+01 -1.273807e+01  2.282395e+01
+TAll$avgCurv        -3.496140e+01  1.373567e+02  8.170698e+01 -5.079263e+01  1.133682e+02
+
+Proportion of trace:
+   LD1    LD2    LD3    LD4    LD5 
+0.8882 0.0737 0.0277 0.0056 0.0048 
+
+<< Tamil LD::: Compactness/AverageCurvature >>
+
+-----------------------
+
+Coefficients of linear discriminants:
+                                  LD1           LD2           LD3           LD4           LD5
+GlyphAll$length         -0.0008493457  7.672046e-03  1.633386e-03 -1.009085e-03  1.308217e-03
+GlyphAll$LBIndex         1.2964947766  2.630214e-01  1.311345e-01 -5.527453e-01 -1.207665e+00
+GlyphAll$circularity    -3.9298702823  8.617213e+00 -4.248225e+00  1.441775e+01  8.012351e+00
+GlyphAll$rectangularity  8.7600805201 -1.466711e+01 -1.940283e+00 -1.769188e+01 -1.041524e+01
+GlyphAll$divergence     -0.0017024777  8.995062e-03 -1.400872e-03  3.651131e-03 -8.534491e-03
+GlyphAll$openness       -0.1556152570 -4.162855e-02  2.318859e+00 -2.017462e+00  2.794028e+00
+GlyphAll$size            0.0000977950 -1.146289e-04  7.455891e-07 -2.021358e-05  4.536344e-05
+GlyphAll$compactness    33.0121940612 -3.018857e+01  4.339035e+01  1.737425e+01  6.037175e+01
+GlyphAll$avgCurv        14.9589712086 -1.362588e+01  1.097331e+02  1.409316e+02 -5.059147e+01
+                                  LD6           LD7           LD8           LD9
+GlyphAll$length         -2.040383e-03  1.837199e-03  5.763955e-03  5.596443e-03
+GlyphAll$LBIndex         1.582158e+00  1.595674e+00 -9.004369e-01  3.569433e-02
+GlyphAll$circularity     3.900519e+00  6.957515e+00 -1.150954e+01  2.607495e+00
+GlyphAll$rectangularity -2.871955e+00 -1.548332e+01  1.078121e+01 -1.470365e+00
+GlyphAll$divergence     -6.997943e-03 -4.802017e-03 -5.582003e-03 -6.121813e-03
+GlyphAll$openness        1.485253e+00 -1.303135e+00 -1.156660e+00  4.088805e+00
+GlyphAll$size            1.641706e-05 -3.819909e-05 -6.870888e-05 -8.402562e-05
+GlyphAll$compactness     1.494892e+02 -8.802188e+01 -6.123690e+01 -1.528763e+02
+GlyphAll$avgCurv         1.649820e+01 -3.213862e+01  5.968819e+01  5.929000e+01
+
+Proportion of trace:
+   LD1    LD2    LD3    LD4    LD5    LD6    LD7    LD8    LD9 
+0.6780 0.1807 0.0525 0.0393 0.0236 0.0124 0.0079 0.0042 0.0014 
